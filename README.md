@@ -8,6 +8,8 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
+<img src="assets/images/Capture d’écran du 2024-01-30 13-48-14.png" alt="capture" />
+
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
