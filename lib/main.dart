@@ -1,6 +1,4 @@
-import 'package:balance_app/home.dart';
-import 'package:balance_app/myhome.dart';
-import 'package:balance_app/statistic.dart';
+import 'package:balance_app/views/home.dart';
 import 'package:flutter/material.dart';
 
 void main() {

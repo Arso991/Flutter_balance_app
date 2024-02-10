@@ -1,7 +1,7 @@
-import 'package:balance_app/myhome.dart';
-import 'package:balance_app/settings.dart';
-import 'package:balance_app/statistic.dart';
-import 'package:balance_app/wallet.dart';
+import 'package:balance_app/views/myhome.dart';
+import 'package:balance_app/views/settings.dart';
+import 'package:balance_app/views/statistic.dart';
+import 'package:balance_app/views/wallet.dart';
 import 'package:flutter/material.dart';
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:flutter_svg/flutter_svg.dart';
